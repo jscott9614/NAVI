@@ -1,4 +1,4 @@
 The images that are found in this folder are the output from DLT_Frames.
 
-This url contains the zip folder of all the images that were converted from the video frames.
+This url contains the two zip folders of all the images that were converted from the video frames.
 https://drive.google.com/drive/u/0/folders/1YKWDR8NCSwgDwPB1QYS7w4G-XKaI_xKg 
